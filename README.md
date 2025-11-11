@@ -23,4 +23,5 @@ It allows users to generate strong and random passwords of a desired length, com
 ---
 ## sample output
 Enter the desired password length: 10
+
 Generated Password: G5x&dWq2$P
